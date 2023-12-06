@@ -1,6 +1,6 @@
 RENCANA BELAJAR
 -Javascript
--React
--Next js
+-vue
+
 -Bahasa Mandarin
--Bahasa Jepang
+-Bahasa Korea
