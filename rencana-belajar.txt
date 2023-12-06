@@ -1,0 +1,4 @@
+-Javascript
+-React
+-Next js
+-Bahasa Mandarin
