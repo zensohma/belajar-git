@@ -1,6 +1,3 @@
 RENCANA BELAJAR
 -Javascript
--React
--Next js
--Bahasa Inggris
--Bahasa Jepang
+
