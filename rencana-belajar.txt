@@ -1,6 +1,3 @@
 RENCANA BELAJAR
 -Javascript
--vue
 
--Bahasa Mandarin
--Bahasa Korea
