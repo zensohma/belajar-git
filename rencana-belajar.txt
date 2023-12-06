@@ -1,5 +1,4 @@
 -Javascript
 -React
--Kalkulus
 -Next js
 -Bahasa Mandarin
