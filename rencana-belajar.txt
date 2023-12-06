@@ -2,5 +2,5 @@ RENCANA BELAJAR
 -Javascript
 -React
 -Next js
--Bahasa Mandarin
+-Bahasa Inggris
 -Bahasa Jepang
